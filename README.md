@@ -67,5 +67,5 @@ College_Recommendation_Dashboard
 👨‍💻 Author
 
 Arshia Singh
-2nd Year CSE Student, Lovely Professional University
-📍 Delhi | ✉️ singharshia2005@gmail.com | 🌐 https://www.linkedin.com/in/arshia05/
+CSE Student, Lovely Professional University  
+📍 Delhi | ✉️ singharshia2005@gmail.com | 🌐 https://www.linkedin.com/in/arshiasingh28/ 
